@@ -1,11 +1,5 @@
 # Suraksha Sathi — Mine Safety Drill Assistant (LangChain + Groq)
 
-## ⚠️ First: rotate your API key
-A Groq key was pasted in plain chat text earlier — treat it as compromised.
-Go to https://console.groq.com/keys, revoke it, and generate a new one.
-Put the new key only in a local `.env` file (already gitignored via
-`.env.example` pattern), never in code or chat.
-
 ## How it works
 
 1. **Knowledge base** (`drill_data/*.txt`) — one file per drill (8 total).
