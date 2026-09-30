@@ -1,0 +1,32 @@
+Drill Name: Transformer Arc Flash Defense
+Drill ID: DRILL_06 (elec-v2)
+
+Category: Electrical
+Difficulty Level: Advanced
+Duration: 30 min
+
+Purpose:
+Establish approach boundaries and execute emergency disconnects on a failing 13.8kV plant step-down transformer.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- 40 Cal/cm² Arc Flash Suit
+- Dielectric Overshoes
+- Hot Stick
+
+Step-by-step procedure:
+1. Establish Boundary: Mark the 10-foot limited approach boundary with red barricade tape.
+2. Inspect Transformer: Use AR thermal imaging to locate the overheating bushing.
+3. Operate Hot Stick: Use a 6-foot fiberglass hot stick to open the primary cutout switch from a distance.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What tool must be used to open a high-voltage disconnect switch?
+A: Fiberglass Hot Stick
+Q: What does 'cal/cm²' measure on Arc Flash PPE?
+A: Thermal incident energy rating
+Q: Before opening a transformer enclosure, what must be applied?
+A: Temporary grounding clamps
+Q: True or False: Synthetic clothing like nylon or polyester is safe to wear under an arc flash suit.
+A: False - they can melt to the skin
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

@@ -1,0 +1,32 @@
+Drill Name: Confined Space Gas Leak
+Drill ID: DRILL_04 (chem-v2)
+
+Category: Hazmat
+Difficulty Level: Intermediate
+Duration: 25 min
+
+Purpose:
+Protocol for entering subterranean vaults with suspected Hydrogen Sulfide (H2S) displacement and oxygen deprivation.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- 4-Gas Monitor
+- SCBA Tank
+- Extraction Harness
+
+Step-by-step procedure:
+1. Deploy Gas Sniffer: Drop the 4-gas monitor probe into the vault and wait 60 seconds for AR readout.
+2. Engage Blower: Position the positive-pressure ventilation tube into the space to clear toxic vapor.
+3. Rig Tripod Hoist: Set up the extraction winch directly over the manhole opening.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What device is absolutely required before entering a confined space?
+A: 4-Gas Monitor
+Q: What gas smells like 'rotten eggs' at low concentrations but deadens your sense of smell at high levels?
+A: Hydrogen Sulfide (H2S)
+Q: What is the minimum acceptable oxygen level for entering a confined space without supplied air?
+A: 19.5%
+Q: What should an attendant do if the entrant stops responding?
+A: Initiate non-entry rescue using the tripod hoist
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

@@ -1,0 +1,34 @@
+Drill Name: Combustible Dust Deflagration
+Drill ID: DRILL_02 (fire-v2)
+
+Category: Fire
+Difficulty Level: Advanced
+Duration: 22 min
+
+Purpose:
+Identify and mitigate combustible dust accumulation on factory rafters before a secondary explosion sequence triggers.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Nomex Flash Suit
+- Anti-Static Footwear
+- Full-Face Respirator
+
+Step-by-step procedure:
+1. Detect Dust Cloud: Use AR thermal mode to identify suspended particulate density above LEL limits.
+2. Kill Ignition Sources: Disable nearby welding arcs and non-intrinsically safe electrical motors.
+3. Activate Exhaust: Engage the local explosion-proof exhaust ventilation system.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What is the most dangerous consequence of disturbing settled combustible dust?
+A: Secondary explosion
+Q: Which cleaning method should be STRICTLY avoided in a dust-heavy environment?
+A: Using compressed air
+Q: What type of electrical equipment must be used in a combustible dust area?
+A: Intrinsically safe / Explosion-proof
+Q: How should water be applied to a combustible dust fire?
+A: Low-pressure fog
+Q: What does 'LEL' stand for in gas and dust monitoring?
+A: Lower Explosive Limit
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

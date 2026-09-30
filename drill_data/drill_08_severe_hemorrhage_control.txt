@@ -1,0 +1,31 @@
+Drill Name: Severe Hemorrhage Control
+Drill ID: DRILL_08 (firstaid-v2)
+
+Category: First Aid
+Difficulty Level: Intermediate
+Duration: 15 min
+
+Purpose:
+Rapid response protocol for severe arterial bleeding caused by heavy machinery entanglement or crushing incidents.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Nitrile Exam Gloves
+- Safety Glasses
+
+Step-by-step procedure:
+1. Isolate Machinery: Hit the emergency E-Stop button on the offending machinery before approaching.
+2. Apply Direct Pressure: Pack the wound with hemostatic gauze and apply heavy downward bodyweight pressure.
+3. Apply Tourniquet: Place tourniquet 2 inches above the wound; twist the windlass until bleeding stops completely.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: Where should a tourniquet be applied relative to a bleeding wound?
+A: 2 inches above the wound
+Q: What should you do before approaching a worker caught in machinery?
+A: Hit the emergency E-Stop button
+Q: When applying a tourniquet, how tight should the windlass be twisted?
+A: Until the arterial bleeding completely stops
+Q: After applying a tourniquet, what critical information must be recorded?
+A: The exact time of application
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

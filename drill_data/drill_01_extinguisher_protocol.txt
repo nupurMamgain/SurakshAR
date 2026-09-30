@@ -1,0 +1,36 @@
+Drill Name: Extinguisher Protocol
+Drill ID: DRILL_01 (fire-v1)
+
+Category: Fire
+Difficulty Level: Beginner
+Duration: 15 min
+
+Purpose:
+Master the mandatory industrial standard P.A.S.S. protocol on electrical and fuel flare hazards in confined work zones.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Heat-Resistant Gloves
+- Safety Goggles
+- Fire-Retardant Coverall
+
+Step-by-step procedure:
+1. Identify Fire Hazard: Center the target on the combustion source to distinguish Class A vs Class C flame.
+2. Select Extinguisher: Confirm CO2 canister selection on the tool wheel.
+3. Pull Safety Pin: Execute the pin break sequence to disengage the locking ring.
+4. Aim At Base: Hold reticle at the base of the virtual fire, avoiding the smoke plume.
+5. Sweep Motion: Pan camera side-to-side to extinguish the hazard.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What does the 'A' in the P.A.S.S. protocol stand for?
+A: Aim at the base
+Q: Which extinguisher type should NEVER be used on an electrical fire?
+A: Water
+Q: How far away should you stand when initially discharging an extinguisher?
+A: 8-10 feet
+Q: What should you do if the fire continues to grow after using one full extinguisher?
+A: Evacuate immediately
+Q: What visual indicator shows that a fire extinguisher is fully pressurized?
+A: The gauge needle is in the green zone
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

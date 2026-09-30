@@ -1,0 +1,32 @@
+Drill Name: High-Voltage Lockout (LOTO)
+Drill ID: DRILL_05 (elec-v1)
+
+Category: Electrical
+Difficulty Level: Intermediate
+Duration: 18 min
+
+Purpose:
+Zero-energy state verification and standardized Lockout/Tagout isolation for plant motor control distribution centers.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Class 0 Insulated Gloves
+- Arc Flash Hood
+- Nonconductive Boots
+
+Step-by-step procedure:
+1. Trip Main Isolator: Open breaker switch cleanly with single swift motion using insulated glove.
+2. Apply Physical Lock & Hasp: Secure OSHA-compliant red master padlock through isolation switch clamp.
+3. Verify Zero Energy State: Use calibrated multimeter probes on all 3 phases to confirm zero residual charge.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: Who is authorized to remove a Lockout tag and padlock?
+A: Only the worker who applied it
+Q: What must be done immediately after applying a lock and tag?
+A: Attempt to start the machine to verify zero energy
+Q: When verifying a zero-energy state with a multimeter, what is the correct testing sequence?
+A: Test known live source, test target, test known live source again
+Q: Why are residual capacitors dangerous even after the main power is cut?
+A: They store high voltage charges that must be grounded
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

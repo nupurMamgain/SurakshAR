@@ -1,0 +1,33 @@
+Drill Name: Chemical Spill Response
+Drill ID: DRILL_03 (chem-v1)
+
+Category: Hazmat
+Difficulty Level: Advanced
+Duration: 20 min
+
+Purpose:
+Immediate containment procedures for industrial solvents, acid line breaches, and toxic liquid spill containment zones.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Full Face Shield
+- Heavy Nitrile Gloves
+- Chemical Apron
+- Vapor Respirator
+
+Step-by-step procedure:
+1. Cordon & Evacuate: Flag 10-meter perimeter boundary and alert downwind plant personnel immediately.
+2. Consult SDS Placard: Scan the drum barcode with AR to identify pH, vapor density, and reactive risks.
+3. Deploy Absorbent Booms: Encircle outer perimeter of the spill liquid to block drainage inlet runoff.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What is the first step when a hazardous chemical spill occurs?
+A: Evacuate and secure the perimeter
+Q: Where should you place absorbent booms?
+A: Around the outer perimeter
+Q: What document must you check to understand the chemical's reactive risks?
+A: Safety Data Sheet (SDS)
+Q: Which PPE is generally required for an unknown acidic spill?
+A: Level B Hazmat suit
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.

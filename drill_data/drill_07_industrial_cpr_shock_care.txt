@@ -1,0 +1,31 @@
+Drill Name: Industrial CPR & Shock Care
+Drill ID: DRILL_07 (firstaid-v1)
+
+Category: First Aid
+Difficulty Level: Beginner
+Duration: 12 min
+
+Purpose:
+Emergency basic life support, CPR cadence synchronization, and automated external defibrillator (AED) pad setup on site.
+
+Required PPE (Personal Protective Equipment) / Equipment involved:
+- Nitrile Exam Gloves
+- CPR Pocket Mask
+
+Step-by-step procedure:
+1. Survey Scene Safety: Inspect floor for hanging wires, slippery oil pools, or continuing hazard leaks.
+2. Begin Chest Compressions: Place palm center of sternum, compress 2 inches deep at 100-120 BPM tempo.
+3. Stand Clear & Shock Delivery: Ensure zero worker contact during automated heart rhythm analysis & shock cycle.
+
+Knowledge check questions and correct answers (for the worker's understanding):
+Q: What is the correct depth and rate for adult chest compressions?
+A: 2 inches at 100-120 BPM
+Q: What is the first thing you should do when finding an unconscious worker?
+A: Survey the scene for hazards
+Q: When using an AED, what must you ensure before pressing the 'Shock' button?
+A: Everyone is standing clear of the victim
+Q: If a worker is in shock (pale, cold, rapid pulse), what is the best initial positioning?
+A: Lay them flat and elevate their legs
+
+Scoring:
+Workers are scored on correct completion of each step in the procedure above, and on their answers to the knowledge check questions. Total: 100 points. Passing score is 70.
